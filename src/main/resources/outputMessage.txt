@@ -1,0 +1,3 @@
+Subject: New course!
+My content: join to our new coursedsdf
+My link: #{fantasticCourse}
